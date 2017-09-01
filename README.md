@@ -1,2 +1,0 @@
-# fancycn.github.io
-Blog
